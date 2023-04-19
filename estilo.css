@@ -1,0 +1,20 @@
+*{
+    margin:0;
+}
+
+header{
+    height: 500px;
+    background-image: url(Frutos\ do\ Mar\ oficial.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;/*ajustar imagem background*/
+    background-position: center;/*ajustar imagem background*/
+}
+nav ul{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    color:azure;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
